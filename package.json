@@ -1,0 +1,23 @@
+{
+  "name": "angula-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port.3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanVenturaMartins/Angula-9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanVenturaMartins/Angula-9/issues"
+  },
+  "homepage": "https://github.com/RenanVenturaMartins/Angula-9#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

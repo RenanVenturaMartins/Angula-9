@@ -1,0 +1,7 @@
+var ini = 1
+
+while(ini<= 10) {
+    console.log(`numero ${ini}`)
+    ini+2
+    
+}
